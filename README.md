@@ -7,7 +7,7 @@ The code is borrowed from this [tutorial](https://github.com/NielsRogge/Transfor
 # Run with Moreh framrework
         conda create -n videomae python=3.8
         conda activate videomae
-        update-moreh --firce --targer 23.3.0
+        update-moreh --force --targer 23.3.0
         pip install ipywidgets
 
 # Inference
